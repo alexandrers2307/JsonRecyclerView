@@ -1,0 +1,35 @@
+[
+
+  {
+  "name": "Primeiro dia do Ano",
+  "date": "1 de Janeiro"
+}, {
+  "name": "Sexta Feira Santa",
+  "date": "2 de Abril"
+}, {
+  "name": "Pascoa",
+  "date": "4 de Abril"
+}, {
+  "name": "Tiradentes",
+  "date": "21 de Abril"
+}, {
+  "name": "Dia do Trabalho",
+  "date": "1 de Maio"
+}, {
+  "name": "Independencia",
+  "date": "7 de Setembro"
+}, {
+    "name": "Nossa Senhora Aparecida",
+    "date": "12 de Outubro"
+  },
+  {
+  "name": "Finados",
+  "date": "2 de Novembro"
+}, {
+  "name": "Proclamação da Republica",
+  "date": "15 de Novembro"
+}, {
+  "name": "Natal",
+  "date": "25 de Dezembro"
+
+}]
